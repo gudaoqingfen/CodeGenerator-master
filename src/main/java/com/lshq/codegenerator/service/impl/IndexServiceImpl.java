@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author <a href="https://www.fengwenyi.com">Erwin Feng</a>
+ * @author <a href="https://www.zhanghan.com">zhh</a>
  * @since 2021-07-12
  */
 @Service
@@ -41,7 +41,7 @@ public class IndexServiceImpl implements IIndexService {
 
     @Override
     public String upgrade(String version) {
-        String url = "https://erwin-api.fengwenyi.com/erwin/app/upgrade?" +
+        String url = "https://erwin-api.zhanghan.com/erwin/app/upgrade?" +
                 "appCode=mybatis-plus-code-generator&version=" + version;
         return HttpUtils.get(url);
     }

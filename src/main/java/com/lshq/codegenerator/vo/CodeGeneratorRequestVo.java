@@ -3,7 +3,7 @@ package com.lshq.codegenerator.vo;
 import lombok.Data;
 
 /**
- * @author <a href="https://www.fengwenyi.com">Erwin Feng</a>
+ * @author <a href="https://www.zhanghan.com">zhh</a>
  * @since 2021-07-12
  */
 @Data

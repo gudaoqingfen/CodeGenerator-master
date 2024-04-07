@@ -122,13 +122,13 @@
         </dependency>
 
         <dependency>
-            <groupId>com.fengwenyi</groupId>
+            <groupId>com.zhanghan</groupId>
             <artifactId>api-spring-boot-starter</artifactId>
             <version>${api-starter.version}</version>
         </dependency>
 
         <dependency>
-            <groupId>com.fengwenyi</groupId>
+            <groupId>com.zhanghan</groupId>
             <artifactId>JavaLib</artifactId>
             <version>${JavaLib.version}</version>
         </dependency>

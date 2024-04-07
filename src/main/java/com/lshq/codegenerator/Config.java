@@ -1,7 +1,7 @@
 package com.lshq.codegenerator;
 
 /**
- * @author Erwin Feng
+ * @author zhh
  * @since 2019-04-17 12:04
  */
 public class Config {
@@ -50,7 +50,7 @@ public class Config {
     public static final String FIELD_VERSION_NAME = "version";
 
     /** 作者 */
-    public static final String AUTHOR = "Erwin Feng";
+    public static final String AUTHOR = "zhh";
 
     /** 生成文件的输出目录 */
     public static String PROJECT_PATH = System.getProperty("user.dir");

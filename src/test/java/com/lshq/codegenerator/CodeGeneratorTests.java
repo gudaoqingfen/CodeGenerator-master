@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.annotation.DbType;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author Erwin Feng
+ * @author zhh
  * @since 2020/5/29
  */
 public class CodeGeneratorTests {
@@ -25,7 +25,7 @@ public class CodeGeneratorTests {
         // 排除的表名
         String [] excludeTableNames = {};
         // 基础包名
-        String packageName = "com.fengwenyi.studyspringbootmybatisplus.db";
+        String packageName = "com.zhanghan.studyspringbootmybatisplus.db";
         //CommonUtils.execute(dbType, dbUrl, username, password, driver, tablePrefixes, tableNames, packageName, fieldPrefixes, excludeTableNames);
     }
 
